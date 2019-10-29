@@ -1,0 +1,11 @@
+D:\MyProgramms\LogCalculation\LogCalculator.ConsoleApp\bin\Debug\netcoreapp3.1\LogCalculator.ConsoleApp.exe
+D:\MyProgramms\LogCalculation\LogCalculator.ConsoleApp\bin\Debug\netcoreapp3.1\LogCalculator.ConsoleApp.deps.json
+D:\MyProgramms\LogCalculation\LogCalculator.ConsoleApp\bin\Debug\netcoreapp3.1\LogCalculator.ConsoleApp.runtimeconfig.json
+D:\MyProgramms\LogCalculation\LogCalculator.ConsoleApp\bin\Debug\netcoreapp3.1\LogCalculator.ConsoleApp.runtimeconfig.dev.json
+D:\MyProgramms\LogCalculation\LogCalculator.ConsoleApp\bin\Debug\netcoreapp3.1\LogCalculator.ConsoleApp.dll
+D:\MyProgramms\LogCalculation\LogCalculator.ConsoleApp\bin\Debug\netcoreapp3.1\LogCalculator.ConsoleApp.pdb
+D:\MyProgramms\LogCalculation\LogCalculator.ConsoleApp\obj\Debug\netcoreapp3.1\LogCalculator.ConsoleApp.csprojAssemblyReference.cache
+D:\MyProgramms\LogCalculation\LogCalculator.ConsoleApp\obj\Debug\netcoreapp3.1\LogCalculator.ConsoleApp.AssemblyInfoInputs.cache
+D:\MyProgramms\LogCalculation\LogCalculator.ConsoleApp\obj\Debug\netcoreapp3.1\LogCalculator.ConsoleApp.AssemblyInfo.cs
+D:\MyProgramms\LogCalculation\LogCalculator.ConsoleApp\obj\Debug\netcoreapp3.1\LogCalculator.ConsoleApp.dll
+D:\MyProgramms\LogCalculation\LogCalculator.ConsoleApp\obj\Debug\netcoreapp3.1\LogCalculator.ConsoleApp.pdb
